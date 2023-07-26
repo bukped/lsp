@@ -55,6 +55,15 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 ## LAIN-LAIN
 
 1. FR-KON-01.3 Berita Acara Pelaksanaan Ujikom
+   ```html
+   [hari+tgl]
+   [skema kompetensi software requirement analisis dan design]
+   [1+1+-]
+   [Nama+K]
+   [ttgl]
+
+   [nama+ttd]
+   ```
 
 # Dokumen Asesor
 
