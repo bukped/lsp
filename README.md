@@ -21,6 +21,10 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 ## PERANGKAT ASESMEN
 
 1. FR.IA.01 Ceklis Observasi Aktivitas di Tempat Kerja atau Tempat Kerja Simulasi
+   ```html
+   [Umpan Balik : Peserta kompenten pada oservasi demonstrasi]
+   [nama+ttd+tgl]
+   ```
 2. FR.IA.02 Tugas Praktik Demonstrasi
 3. FR.IA.03 Pertanyaan Untuk Mendukung Observasi
 4. FR.IA.05 Pertanyaan Tertulis Pilihan Ganda + Lembar Jawaban (FR.IA.5B) tidak digunakan
