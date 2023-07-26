@@ -1,4 +1,4 @@
-# lsp
+# Dokumen Asesi
 Daftar Periksa Kelengkapan Dokumen Asesi :
 ## PELAKSANAAN ASESMEN
 
@@ -26,22 +26,39 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 
 1. FR-KON-01.3 Berita Acara Pelaksanaan Ujikom
 
-2. 
-![image](https://github.com/bukped/lsp/assets/11188109/a56ef2fa-d994-4c9b-8407-e450f80b553f)
+# Dokumen Asesor
 
-1. Surat Rekomendasi dari Program studi
-2. DHS
-3. FR.APL.01 Permohonan Sertifikasi Kompetensi + Bukri Persyaratan Dasar
-4. FR.APL.02 Asesmen Mandiri + Portofolio Peserta
-5. SKEMA Sertifikasi + Standar Kompetensi Kerja
-6. FR.AK.01. Persetujuan Asesmen dan Kerahasiaan
+## PELAKSANAAN ASESMEN
 
-7. FR.IA.01. Ceklis Observasi di Tempat Kerja atau Tempat Kerja Simulasi
-8. FR.IA.02. Tugas Praktik Demonstrasi
-9. FR.IA.03 Pertanyaan Untuk Mendukung Observasi
-10. FR.IA.05 Pertanyaan Tertulis Pilihan Ganda + Lembar Jawaban (FR.IA.5B)
-11. FR.IA.06 Pertanyaan Tertulis Esai + Lembar Jawaban (FR.IA.06.B)
+1. Surat Tugas Asesor Kompentensi
+2. Konfirmasi asesor kompentensi
+3. Surat Tugas Lead Asesor
+4. Surat Tugas Verifikasi TUK
+5. Berita Acara verifikasi TUK
+6. Formulir data asesor kompentensi (per tahun)
+7. Fotokopi sertifikas registrasi Askom
+8. Surat konfirmasi TUK
+9. SK TUK terverifikasi
+10. FR.MAPA.01 Merencanakan Aktivitas dan Proses Asesmen
+11. SKEMA Sertifikasi + Standar Kompetensi Kerj
+12. FR.MAPA.02 Peta Instrumen Asesmen Hasil Pendekatan Asesmen dan Perencanaan Asesmen
+13. FR.AK.04 Banding Asesmen
 
-12. FR.AK.02 Formulir Rekaman Asesmen Kompetensi
-13. FR.AK.03 Umpan Balik dan Catatan Asesmen
-14. FR-KON-01.3. Berita Acara Pelaksanaan Ujikom
+## PERANGKAT ASESMEN
+
+1. FR.IA.01 Ceklis Observasi Aktivitas di Tempat Kerja Simulasi
+2. FR.IA.02 Tugas Praktik Demonstrasi
+3. FR.IA.03 Pertanyaan Untuk Mendukung Observasi
+4. FR.IA.05 Pertanyaan pilihan ganda, kunci FR.IA.05.A dan lembar jawaban FR.IA.05.B
+5. FR.IA.06 Pertanyaan Tertulis Esai + Kunci FR.IA.06.A +lembar jawaban(FR.IA.06.B)
+6. FR.IA.07 Pertanyaan Lisan
+7. FR.IA.11 Ceklis Meninjau Materi Asesmen
+
+## LAPORAN
+
+1. FR.AK.05 Laporan Asesmen
+2. FR.AK.06 Meninjau Proses Asesmen
+
+## VALIDASI
+
+1. FR.VA Memberikan Kontribusi dalam validasi Asesmen
