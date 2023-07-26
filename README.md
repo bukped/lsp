@@ -11,6 +11,12 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
    ```
 6. SKEMA
 7. FR.AK.01 Persetujuan Asesmen dan Kerahasiaan
+   ```html
+   [L:Observasi Langsung]
+   [TULIS+LISAN]
+   [Hari/TGL + Waktu+TUK]
+   [TTD+TGL]
+   ```
 
 ## PERANGKAT ASESMEN
 
