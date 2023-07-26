@@ -35,12 +35,18 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 4. FR.IA.05 Pertanyaan Tertulis Pilihan Ganda + Lembar Jawaban (FR.IA.5B) tidak digunakan
 5. FR.IA.06 Pertanyaan Tertulis Esai + Lembar Jawaban FR.IA 06.B
    ```html
-   
+   FR.IA 06.B
+   [k]
+   [nama+ttd+tgl]
    ```
 
 ## KEPUTUSAN
 
 1. FR.AK.02 Formulir Rekaman ASesmen Kompetensi
+   ```html
+   [nama+tgl]
+   [ttd+tgl]
+   ```
 2. FR.AK.03 Umpan Balik dan cataatan Asesmen
 
 ## LAIN-LAIN
