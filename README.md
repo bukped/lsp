@@ -45,6 +45,9 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 1. FR.AK.02 Formulir Rekaman ASesmen Kompetensi
    ```html
    [nama+tgl]
+   [observasidemo/lisan/testtulis]
+   [kompeten]
+   [ceklis]
    [ttd+tgl]
    ```
 2. FR.AK.03 Umpan Balik dan cataatan Asesmen
