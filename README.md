@@ -5,9 +5,12 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 1. Surat Rekomendasi dari Prodi
 2. DHS
 3. FR.APL.01 Permohonan Sertifikasi Kompetensi + Bukti Persyaratan
-4. FR.APL.02 Asesmen Mandiri + Portofolio Peserta [REKOMENDASI + TTD + TGL]
-5. SKEMA
-6. FR.AK.01 Persetujuan Asesmen dan Kerahasiaan
+4. FR.APL.02 Asesmen Mandiri + Portofolio Peserta 
+   ```html
+   [REKOMENDASI] | [TTD + TGL]
+   ```
+6. SKEMA
+7. FR.AK.01 Persetujuan Asesmen dan Kerahasiaan
 
 ## PERANGKAT ASESMEN
 
