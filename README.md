@@ -27,8 +27,16 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
    ```
 2. FR.IA.02 Tugas Praktik Demonstrasi
 3. FR.IA.03 Pertanyaan Untuk Mendukung Observasi
+   ```html
+   [K]
+   [UMPAN BALIK :KOMPETEN]
+   [NAMA+TTD+TGL]
+   ```
 4. FR.IA.05 Pertanyaan Tertulis Pilihan Ganda + Lembar Jawaban (FR.IA.5B) tidak digunakan
 5. FR.IA.06 Pertanyaan Tertulis Esai + Lembar Jawaban FR.IA 06.B
+   ```html
+   
+   ```
 
 ## KEPUTUSAN
 
