@@ -68,11 +68,13 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 
 # Dokumen Asesor
 
+Print Semua Dokumen dari EMail LSP
+ 
 ## PELAKSANAAN ASESMEN
 
 1. Surat Tugas Asesor Kompentensi
-2. Konfirmasi asesor kompentensi
-3. Surat Tugas Lead Asesor
+2. Konfirmasi asesor kompentensi(print sebanyak Surat Tugas)
+3. Surat Tugas Lead Asesor(jika ditunjuk)
 4. Surat Tugas Verifikasi TUK
 5. Berita Acara verifikasi TUK
 6. Formulir data asesor kompentensi (per tahun)
