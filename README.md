@@ -35,8 +35,9 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
 4. FR.IA.05 Pertanyaan Tertulis Pilihan Ganda + Lembar Jawaban (FR.IA.5B) tidak digunakan
 5. FR.IA.06 Pertanyaan Tertulis Esai + Lembar Jawaban FR.IA 06.B
    ```html
+   [penyusun : ttd+validator:asesor lain]
    FR.IA 06.B
-   [k]
+   [k][nilai: maks 100 dibagi per pertanyaaan]
    [nama+ttd+tgl]
    ```
 
@@ -59,7 +60,7 @@ Daftar Periksa Kelengkapan Dokumen Asesi :
    [hari+tgl]
    [skema kompetensi software requirement analisis dan design]
    [1+1+-]
-   [Nama+K]
+   [Nama+K+pertahankan]
    [ttgl]
 
    [nama+ttd]
