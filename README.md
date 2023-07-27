@@ -1,5 +1,6 @@
 # Dokumen Asesi
 Daftar Periksa Kelengkapan Dokumen Asesi :
+1. TTD ASesor Lain dan Lead Asesor di FR.IA.06 dan FR.VA
 ## PELAKSANAAN ASESMEN
 
 1. Surat Rekomendasi dari Prodi
@@ -95,12 +96,25 @@ Print Semua Dokumen dari EMail LSP
 5. FR.IA.06 Pertanyaan Tertulis Esai + Kunci FR.IA.06.A +lembar jawaban(FR.IA.06.B)
 6. FR.IA.07 Pertanyaan Lisan
 7. FR.IA.11 Ceklis Meninjau Materi Asesmen
+   ```html
+   [centang ya kecuali diperlukan modifikasi]
+   ```
 
 ## LAPORAN
 
 1. FR.AK.05 Laporan Asesmen
 2. FR.AK.06 Meninjau Proses Asesmen
+   ```html
+   [centang semua kolom]
+   [nama+ttd+tgl+-]
+   ```
 
 ## VALIDASI
 
 1. FR.VA Memberikan Kontribusi dalam validasi Asesmen
+   ```html
+   [haritanggal+tempat+periode]
+   [centang tebal]
+   [ttd asesor lain+lead asesor]
+
+   ```
